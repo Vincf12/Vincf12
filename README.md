@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 
 - 🔭 Currently building a Badminton E-Commerce Website
@@ -25,7 +25,7 @@
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDU2dXY0aWJ2NDVsaHpyOWg4YjkzYWR2d2R4ZXZ4dGV5NGl5b2NrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="450" alt="Coding GIF"/>
 
