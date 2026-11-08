@@ -17,11 +17,15 @@
 ## About Me
 
 
-- 🔭 Currently building a Badminton E-Commerce Website
-- 🌱 Leveling up with .NET Core · Clean Architecture · Docker
-- 💬 Ask me about C# · ASP.NET Core · ReactJS · Flutter
-- 📫 Reach me at phungkhoa425@gmail.com
-- ⚡ Fun fact: I use AI as my daily coding co-pilot to optimize and speed up my workflow
+-Hi, my name is Phung Khoa and I'm a Software Engineering student.
+
+-🌱 I'm studying Software Development, .NET, and Web Technology.
+
+-💻 I'm very passionate about Backend Development, Web Development, and Mobile Applications.
+
+-📫 Contact me via email: khoaphungwindow@gmail.com
+
+-⚡ Additional information: My hobbies include enjoying delicious food, being creative, and exploring different technologies.
 
 
 
